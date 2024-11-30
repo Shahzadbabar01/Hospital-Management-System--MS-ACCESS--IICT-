@@ -1,0 +1,2 @@
+# Hospital Management System -MS ACCESS -IICT (Introduction to Information and Communication Technology.)
+ Hospital Management System A simple Hospital Management System developed in Microsoft Access as part of the Introduction to Information and Communication Technology course. Features include patient and doctor management, appointment scheduling, billing, and reports. The project demonstrates database design principles and ICT applications in healthcare management.
